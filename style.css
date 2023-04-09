@@ -182,3 +182,13 @@ footer ul li a {
     margin: 10px;
     color: rgba(0, 0, 0, .54);
 }
+/* Master- linea 17 en el header no tiene background color y el layout-linea 17 sí */
+/* Master- linea 22 la diferencia es que no tiene background-color y en el layout-linea 31 */
+/* Master-linea 80 tiene un border-radius de 2.4rem y en el layout-linea 84 no lo encontramos.*/
+/* Master- linea 118 tiene estilos .main-input .main-input--container:hover {
+    box-shadow: 0 1px 6px 0 #20212447;
+    border: 1px solid #dfe1e5; y en Layout- linea 121 no cuenta con ningun estilo*/
+/* Master-linea 123 no cuenta con cuenta con background color y en layout-linea 123 sí lo encontramos.*/
+/* Master-linea 152 tiene un border top: 1px solid #e4e4e4 y en layout no encontramos este estilo */
+/* Master- linea 171 no cuenta con un background-color por lo contrario, en layout- linea 171 sí se aplico este estilo */
+/* Master-linea 176 y 182 no tiene el estilo background-color mientras que en Layout- linea 177 y 183 sí se aplica */
